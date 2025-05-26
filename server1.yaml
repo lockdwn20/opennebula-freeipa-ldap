@@ -1,3 +1,3 @@
 ---
-cn=185_test_users,cn=groups,cn=accounts,dc=int,dc=batnet,dc=link: '101'
-cn=185_test_admins,cn=groups,cn=accounts,dc=int,dc=batnet,dc=link: '100'
+cn=<user_group>,cn=groups,cn=accounts,dc=int,dc=batnet,dc=link: '101'
+cn=<admin_group>,cn=groups,cn=accounts,dc=int,dc=batnet,dc=link: '100'
