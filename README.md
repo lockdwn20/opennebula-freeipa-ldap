@@ -11,6 +11,7 @@ The OpenNebula documentation can be found at https://docs.opennebula.io/6.10/ins
 
 ![image](https://github.com/user-attachments/assets/2148b75c-b652-46b9-ad76-48e284aa832d)
 
+**Note: The server1.yaml is included as an example only**
 
 The files are located on your Fireedge/Sunstone Server:  
 The ldap_auth.conf is located in the /etc/one/auth folder  
